@@ -7,6 +7,6 @@ Plugin.create :core_audio do
   afplay_exist = command_exist?(command)
 
   defsound :core_audio, "CoreAudio" do |filename|
-    bg_system(command, filename) if FileTest.exist?(filename) and afplay_exist end
-
+    bg_system(command, filename) if FileTest.exist?(filename) and afplay_exist
+  end
 end
