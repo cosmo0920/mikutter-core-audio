@@ -1,0 +1,9 @@
+---
+slug: :core_audio
+depends:
+  mikutter: '3.2'
+  plugin: [sound]
+version: '0.0.1'
+author: cosmo__
+name: CoreAudio
+description: afplay コマンドを用いてサウンドを再生する
