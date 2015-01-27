@@ -10,4 +10,4 @@ pluginディレクトリに入れればサウンドの選択肢にCoreAudioが�
 
 LICENSE
 ===
-[MIT](MIT).
+[MIT](LICENSE).
