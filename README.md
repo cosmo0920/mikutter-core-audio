@@ -7,3 +7,7 @@ aplayでサウンドを鳴らすOSX版です、afplayコマンドを使ってい
 ===
 
 pluginディレクトリに入れればサウンドの選択肢にCoreAudioが増えるはず。
+
+LICENSE
+===
+[MIT](MIT).
